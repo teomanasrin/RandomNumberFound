@@ -1,0 +1,7 @@
+C:\Users\teoma\source\repos\odev\odev\bin\Debug\odev.exe.config
+C:\Users\teoma\source\repos\odev\odev\bin\Debug\odev.exe
+C:\Users\teoma\source\repos\odev\odev\bin\Debug\odev.pdb
+C:\Users\teoma\source\repos\odev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\teoma\source\repos\odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\teoma\source\repos\odev\odev\obj\Debug\odev.exe
+C:\Users\teoma\source\repos\odev\odev\obj\Debug\odev.pdb
